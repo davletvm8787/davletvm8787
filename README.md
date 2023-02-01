@@ -1,6 +1,7 @@
-##THE OLD CODER 
 <img src="https://media.giphy.com/media/LPHXLKEOZw6T6/giphy.gif" width="850" height="468" />
 
+<br>
+<h3 align="left">THE OLD CODER</h3>
 
 <!--
 **davletvm8787/davletvm8787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
   <!-- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></img> -->
 </p>
 
-<h3 align="left">J</h3>
+<h3 align="left">#######</h3>
 <p>
     <a href="#"><img alt="Nix" src="https://img.shields.io/badge/nix-bell%20labs-green"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
