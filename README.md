@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yagizdo&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
+<h3 align="left">Framework & Libraries</h3>
+<p>
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?logo=flutter&logoColor=white"></img>
+</p>
+
+<h3 align="left">Languages</h3>
+<p>
+   <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2315A6C4.svg?logo=dart&logoColor=white"></img>
+</p>
+
+<h3 align="left">Familarity</h3>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></img>
+  <!-- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"></img> -->
+</p>
+
+<h3 align="left">Databases and cloud hosting</h3>
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black"></a>
+</p>
