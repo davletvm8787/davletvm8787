@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <p>
     <a href="#"><img alt="Nix" src="https://img.shields.io/badge/nix-bell%20labs-green"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=black"></a>
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-way-blue"></a>
 </p>
