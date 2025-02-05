@@ -4,7 +4,6 @@
 <h3 align="left">THE OLD CODER</h3>
 
 <h1 align="center">Hi 👋, I'm Davlet</h1>
-<h3 align="center">I am old coder since 1965. Engaged in programming languages such as GO/C/Js/Rust/Kotlin/Swift. Also delving into the Linux kernel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davletvm8787&label=Profile%20views&color=0e75b6&style=flat" alt="davletvm8787" /> </p>
 
