@@ -1,9 +1,11 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQzN2k2cWFvanExcXY3aXd1dWo1MmxsMGRydDUxazRqdHZjazQ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KVr0JbrdBp9KX644Bk/giphy.gif" width="850" height="468" />
 
 <br>
-<h3 align="left">THE OLD CODER</h3>
 
-<h1 align="center">Hi 👋, I'm Davlet</h1>
+<h1 align="center">Hi 👋, I'm Davlet
+With over 25 years of software engineering experience, he's known to author the Fastify web framework, the fast logger Pino, and his contributions to Node.js. I’m  a member of the Node.js Technical Steering Committee, and is an active Open Source author, with modules he maintains being downloaded over 12 billion times per year.
+I wrote npm and a pretty considerable portion of other node related JavaScript that you might use. I've been doing open source JavaScript for over two decades now.Constantly learning, i creates web development courses focused on JavaScript, TypeScript, React, CSS, Node.js and whatever else comes my way.
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davletvm8787&label=Profile%20views&color=0e75b6&style=flat" alt="davletvm8787" /> </p>
 
